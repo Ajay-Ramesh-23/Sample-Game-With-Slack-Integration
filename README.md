@@ -1,1 +1,1 @@
-# Game With Slack Integration
+# Sample-Game-With-Slack-Integration
