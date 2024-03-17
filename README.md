@@ -1,1 +1,1 @@
-# Sample-Game-With-Slack-Integration
+# Guess-The-Number-Game-With-Slack-Integration
